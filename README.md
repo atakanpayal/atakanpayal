@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @atakanpayal
 - 👀 I’m interested in front-end development
--  ✔ I'm proficient in HTML, CSS, javascript, angular, bootstrap
+-  ✔ I'm proficient in HTML, CSS, Javascript, Angular, React, Figma, Bootstrap
 - 🌱 I’m currently learning react.js
 - 📫 You can reach me via email ( payalatakan@gmail.com ) or linkedin ( https://www.linkedin.com/in/payalatakan )
 
