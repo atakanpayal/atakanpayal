@@ -7,10 +7,11 @@
 
 - 📫 How to reach me **payalatakan@gmail.com**
 
-<h3 align="left">Preview of my projects</h3>
-<a href="https://ibb.co/KNwM0ny"><img src="[https://i.ibb.co/q05ty61/leathershop1.png](https://i.ibb.co/yhSwf2s/leathershop1.png)" alt="leathershop1" border="0"></a>
+<h3 align="left">Preview some of my projects</h3>
 <a href="https://ibb.co/SJ1JC2P"><img src="https://i.ibb.co/WsdsJQ6/lunacommerce1.png" alt="lunacommerce1" border="0"></a>
 <a href="https://ibb.co/0h26DqV"><img src="https://i.ibb.co/qkjcyBF/onlinecoaching1.png" alt="onlinecoaching1" border="0"></a>
+<a href="https://ibb.co/KNwM0ny"><img src="https://i.ibb.co/q05ty61/leathershop1.png" alt="leathershop1" border="0"></a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
